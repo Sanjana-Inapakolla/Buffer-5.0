@@ -1,5 +1,6 @@
 ##  Team 8 Campus_Echo
 
+![Screenshot (1910)](https://github.com/Sanjana-Inapakolla/Buffer-5.0/assets/134955913/886f7674-6b63-4932-801d-37089965cf92)
 
 **Creating a single platform solution for all the needs of campus clubs - recruitment, registrations, events information, events calendar/schedule.**
 
