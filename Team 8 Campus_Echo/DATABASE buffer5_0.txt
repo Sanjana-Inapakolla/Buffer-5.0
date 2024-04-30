@@ -1,0 +1,40 @@
+DATABASE: buffer5_0
+
++---------------------+
+| Tables_in_buffer5_0 |
++---------------------+
+| buffer5_0           |
+| clubnames           |
+| clubuser            |
++---------------------+
+
+buffer5_0 : student details.
++-----------+--------------+------+-----+---------+-------+
+| Field     | Type         | Null | Key | Default | Extra |
++-----------+--------------+------+-----+---------+-------+
+| username  | varchar(10)  | YES  |     | NULL    |       |
+| password  | varchar(20)  | YES  |     | NULL    |       |
+| firstName | varchar(20)  | YES  |     | NULL    |       |
+| lastName  | varchar(20)  | YES  |     | NULL    |       |
+| mail      | varchar(100) | NO   | PRI | NULL    |       |
+| year      | varchar(4)   | YES  |     | NULL    |       |
+| branch    | varchar(10)  | YES  |     | NULL    |       |
+| mobNo     | bigint       | YES  |     | NULL    |       |
++-----------+--------------+------+-----+---------+-------+
+
+clubnames : registered clubs list.
++-------------+---------------+------+-----+---------+-------+
+| Field       | Type          | Null | Key | Default | Extra |
++-------------+---------------+------+-----+---------+-------+
+| Name        | varchar(100)  | NO   | PRI | NULL    |       |
+| Discription | varchar(1000) | YES  |     | NULL    |       |
++-------------+---------------+------+-----+---------+-------+
+
+clubuser : club details.
++----------+--------------+------+-----+---------+-------+
+| Field    | Type         | Null | Key | Default | Extra |
++----------+--------------+------+-----+---------+-------+
+| Name     | varchar(100) | YES  | MUL | NULL    |       |
+| Password | varchar(50)  | YES  |     | NULL    |       |
+| Mail     | varchar(100) | NO   | PRI | NULL    |       |
++----------+--------------+------+-----+---------+-------+
