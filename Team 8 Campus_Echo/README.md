@@ -25,16 +25,16 @@ We've developed a comprehensive platform for campus club activities, equipped wi
 - **Seamless Event Registration:**
   - Students can easily register for events directly through the application, streamlining the process and increasing participation.
 
--**Timely Notifications:**
+- **Timely Notifications:**
   - Users receive timely reminders and updates through notifications, ensuring they never miss important events or deadlines.
 
--**Comprehensive FAQs:**
+- **Comprehensive FAQs:**
   - Access to a repository of general FAQs provides users with quick answers to common queries, improving user experience and reducing support overhead.
 
--**New Club Registration:**
+- **New Club Registration:**
   - Simplified registration process allows new clubs to join the platform seamlessly, fostering a vibrant and diverse club ecosystem.
 
--**Club Member Hierarchy:**
+- **Club Member Hierarchy:**
   - Clear hierarchy structure within clubs facilitates effective communication and organization, empowering clubs to operate efficiently.
 
 #### Data Structures used:
