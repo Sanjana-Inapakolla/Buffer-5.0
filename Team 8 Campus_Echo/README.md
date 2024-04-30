@@ -2,7 +2,7 @@
 
 ![Screenshot (1910)](https://github.com/Sanjana-Inapakolla/Buffer-5.0/assets/134955913/886f7674-6b63-4932-801d-37089965cf92)
 
-**Creating a single platform solution for all the needs of campus clubs - recruitment, registrations, events information, events calendar/schedule.**
+## Creating a single platform solution for all the needs of campus clubs - recruitment, registrations, events information, events calendar/schedule.
 
 [Working Demo](https://drive.google.com/file/d/1UWNewiAWZlgQ5K7mZSkAXxcEw0DFg1pZ/view?usp=drivesdk)
 
@@ -12,7 +12,7 @@
 
 We've developed a comprehensive platform for campus club activities, equipped with convenient features such as notifications and to-do lists to ensure you're always up-to-date with club events. Our application's logic is fortified by a wide range of efficient data structures and algorithms, including heaps, arraylists, queues, tries, and multi-way trees. Security is paramount to us, with login credentials encrypted and stored securely in our database.
 
-##  Our project is featured with the following key highlights:
+###  Our project is featured with the following key highlights:
 
 - **Tailored User Experience:**
   - Individualized logins for both students and clubs ensure a personalized experience.
